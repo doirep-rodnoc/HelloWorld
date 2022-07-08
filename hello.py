@@ -1,5 +1,5 @@
-a = input("Press any key")
+a = input("Press any key:")
 if a:
-    print("HelloWorld")
+    print("Hello World")
 else:
     print("Nothing")
